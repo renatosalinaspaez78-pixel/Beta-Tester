@@ -1,2 +1,0 @@
-# Beta-Tester
-Para testear
